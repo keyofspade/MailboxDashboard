@@ -6,6 +6,8 @@ The data source is a Sharepoint List (needed to build connections with sharepoin
 
 **Note: To maintain confidentiality, all information has been repurposed to have mock data. Real names have been replaced with fictional characters. Real data has been replaced with fake and random data**
 
+**View Interactive Dashboard Here: 
+
 ### Documents
 * PowerBI DAX: DAX measure to create weekly chart of emails received in the mailbox and calculating rate for contact investigations. 
 
