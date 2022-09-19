@@ -4,7 +4,7 @@ The Epi Team requested to capture the summary of all the emails they have receiv
 
 The data source is a Sharepoint List (needed to build connections with sharepoint and Power Automate to ensure daily updates at 6 AM of dashboard) where the team members had recorded daily entries to keep track of emails that they have received and answered or been placed on hold for further follow-up. In addition, the same workbook contains the daily entry tracking for their contact investigations. 
 
-**Note: To maintain confidentiality, all information has been repurposed to have mock data. Real names have been replaced with fictional characters. Real data has been replaced with fake and random data**
+**Note: To maintain confidentiality, all information have been updated to have mock data: real names replaced with fictional characters, locale and catergories replaced with random data** 
 
 ### View Interactive Dashboard Here: https://app.powerbigov.us/reportEmbed?reportId=96b2254e-3918-40ff-9433-e7c3121bced9&autoAuth=true&ctid=9ce70869-60db-44fd-abe8-d2767077fc8f
 
